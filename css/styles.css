@@ -96,7 +96,7 @@ section {
 
 .navbar__menu .menu__link:hover ,.active-nav-item{
     background: #333;
-    color: #fff;
+    color: #fff !important;
     transition: ease 0.3s all;
 }
 
